@@ -36,9 +36,3 @@ The model is evaluated using common regression metrics:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 
-## 🔍 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/car-price-prediction.git
-
