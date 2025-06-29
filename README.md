@@ -24,8 +24,8 @@ By applying **Linear Regression**, the model tries to find the relationship betw
 - Python
 - pandas, NumPy
 - scikit-learn
-- matplotlib, seaborn
-- Jupyter Notebook or Streamlit (optional for app UI)
+- matplotlib
+- Jupyter Notebook
 
 ## 📈 Model Evaluation
 
