@@ -36,3 +36,12 @@ The model is evaluated using common regression metrics:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 
+
+🙌 Future Plans
+I will continue learning more Machine Learning algorithms like:
+
+Logistic Regression
+Decision Trees
+Random Forest
+Neural Networks
+Stay connected for more projects! 😊
