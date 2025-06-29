@@ -36,6 +36,10 @@ The model is evaluated using common regression metrics:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 
+📁 Project Files
+vehicle_price.csv — sample dataset
+vehicle.ipynb — Jupyter Notebook with full code
+README.md — This file
 
 🙌 Future Plans
 I will continue learning more Machine Learning algorithms like:
