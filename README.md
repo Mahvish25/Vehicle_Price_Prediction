@@ -19,3 +19,26 @@ The aim of this project is to predict the selling price of a car using its techn
 
 By applying **Linear Regression**, the model tries to find the relationship between these input features and the target variable: **car price**.
 
+## 🧠 Technologies Used
+
+- Python
+- pandas, NumPy
+- scikit-learn
+- matplotlib, seaborn
+- Jupyter Notebook or Streamlit (optional for app UI)
+
+## 📈 Model Evaluation
+
+The model is evaluated using common regression metrics:
+
+- R² Score
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+
+## 🔍 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/car-price-prediction.git
+
