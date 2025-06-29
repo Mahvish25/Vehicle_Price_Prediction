@@ -38,7 +38,7 @@ The model is evaluated using common regression metrics:
 
 📁 Project Files
 - vehicle_price.csv — sample dataset
-- vehicle.ipynb — Jupyter Notebook with full code
+- Vehicle.ipynb — Jupyter Notebook with full code
 - README.md — This file
 
 🙌 Future Plans
