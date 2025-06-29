@@ -19,5 +19,3 @@ The aim of this project is to predict the selling price of a car using its techn
 
 By applying **Linear Regression**, the model tries to find the relationship between these input features and the target variable: **car price**.
 
-## 📂 Project Structure
-
